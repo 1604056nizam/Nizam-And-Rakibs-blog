@@ -1,0 +1,31 @@
+/* include Google Web fonts: */
+@import url('https://fonts.googleapis.com/css?family=Meie+Script|Shadows+Into+Light|Arvo|Monda');
+
+.row .Nizam{
+  font-size: 22pt;
+  font-weight: 600;
+}
+
+
+.font_shadows_into_light {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+
+.navbar-header a{
+    color: beige;
+}
+.navbar .container-fluid .form-inline{
+    margin-top: 10px;
+}
+.navbar{
+    width: 100%;
+}
+header{
+    height: 450px;
+    padding: 120px 50px;
+    
+}
+header h1{
+    font-size: 50px;
+}
